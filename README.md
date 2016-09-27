@@ -46,8 +46,8 @@ regarding the actual problem. (They have an editorial section for logged in user
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](./LICENSE)
+This project is licensed under the [Apache 2.0 License](/LICENSE)
 
 ## Author
 
-This project was written by [Robert Novak](mailto:me@robert-novak.com)
+This project was written by [Robert Novak](mailto:robertn@ccbill.com)
